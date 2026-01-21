@@ -297,6 +297,21 @@ background-size: cover;}
 
 }
 
+@media (min-width : 900px) {
+.apple-container {
+
+    margin-left: 150px;
+}
+}
+
+
+@media (min-width: 600px) {
+.apple-container {
+        margin-left: 0px;
+}
+}
+
+
 .legal-section {
     font-size: 11px;
     line-height: 1.4;
