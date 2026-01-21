@@ -202,8 +202,7 @@ background-size: cover;}
     text-align: center;
     padding: 10 px;
     margin-bottom: 0;
-    margin-left: 210px;
-    margin-right: 210px;
+
 }
 
 .textapplebg3 {
@@ -211,8 +210,7 @@ background-size: cover;}
     text-align: center;
     padding: 10 px;
     margin-bottom: 0;
-    margin-left: 100px;
-    margin-right: 100px;
+
 }
 .bigheaderbg2 {
     font-family: HelveticaNeue-Bold, "Helvetica Neue Bold", sans-serif;
@@ -296,7 +294,7 @@ background-size: cover;}
     width: 100%;
     max-width: 980px;
     background-color: transparent; 
-    margin-left: 150px;
+
 }
 
 .legal-section {
