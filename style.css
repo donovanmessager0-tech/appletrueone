@@ -363,11 +363,22 @@ background-size: cover;}
 
 .row { --bs-gutter-x: 0; }
 .g-3 { --bs-gutter-x: 1rem; --bs-gutter-y: 1rem; }
+@media (min-width : 900px) {
+.marginfooter {
+        line-height: 1.4;
+    color: #6e6e73;
+    margin-left: 150px;
+}
+}
 
+
+@media (min-width: 600px) {
 .marginfooter {
         line-height: 1.4;
     color: #6e6e73;;
 }
+}
+
 .footer {
     line-height: 1.4;
     color: #6e6e73;
