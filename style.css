@@ -3,7 +3,7 @@
 body {
     font-family: "SF Pro Text", "Myriad Set Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
     /* background-color: #f5f5f7; */
-    background-color: #0066cc;
+    background-color: #0066cc !important;
 }
 
 .logos{
